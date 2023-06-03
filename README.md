@@ -17,3 +17,12 @@ $ git init
 We must to be in the folder that will be the local master of the repository, check your directory location with: pwd
 We can see the status and files available to add to another repository with the command:
 $ git satuts
+To add files to the local repository, we can write:
+$ git add <file name>
+This command allows to track files
+  
+ -- Third step
+To commit the add files, we can write:
+$ git commit -m "Adding files"
+The "phrase" can be anything
+We can check the status with: $ git status 
