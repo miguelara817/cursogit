@@ -20,8 +20,9 @@ $ git satuts
 To add files to the local repository, we can write:
 $ git add <file name>
 This command allows to track files
+If you wanto to add all files, you have to write in <file name> a point <.>
   
- -- Third step
+ - Third step
 To commit the add files, we can write:
 $ git commit -m "Adding files"
 The "phrase" can be anything
